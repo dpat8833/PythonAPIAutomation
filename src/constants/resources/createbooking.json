@@ -1,0 +1,11 @@
+{
+    "firstname" : "Dibyajyoti",
+    "lastname" : "Pattnaik",
+    "totalprice" :1000 ,
+    "depositpaid" : true,
+    "bookingdates" : {
+        "checkin" : "2024-04-21",
+        "checkout" : "2024-11-15"
+    },
+    "additionalneeds" : "Lunch, Dinner"
+}
